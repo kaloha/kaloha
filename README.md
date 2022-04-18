@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 [![kaloha's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveshare&show_icons=true&theme=radical)](https://github.com/waveshare/github-readme-stats)
 
-[![kaloha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seeed_Studio&show_icons=true&theme=radical)](https://github.com/Seeed-Studio/github-readme-stats)
+[![kaloha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seeed Studio&show_icons=true&theme=radical)](https://github.com/Seeed-Studio/github-readme-stats)
 
 
